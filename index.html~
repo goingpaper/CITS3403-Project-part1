@@ -1,0 +1,72 @@
+<?xml version = ″1.0″?>
+<!DOCTYPE html PUBLIC ″-//w3c//DTD XHTML 1.1//EN″ http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd>
+<html xmlns = ″http://www.w3.org/1999/xhtml″>
+	<head>
+		<title> Our first document </title>
+	</head>
+	<body   bgcolor="#FFFFFF"
+        text="#000000"
+        link="#0000FF"
+        vlink="#000080"
+        alink="#FF0000">
+
+<hr width="50%" size="2">
+
+<center>
+<img src="http://www.csse.uwa.edu.au/images/fecmbanner-new.gif">
+
+<font size="+2">
+
+        <br>
+
+	This is a placeholder page for the student web area
+
+	 <hr width="50%" size="2" ></hr>
+	<center>
+	<p>
+
+         Please direct any queries to <a href="mailto:support@csse.uwa.edu.au">Computer Science Support</a>
+	
+	<table border="border">
+	  <tr>
+	    <td>X</td>
+	    <td>Y</td>
+	    <td>X and Y</td>
+	    <td>X or Y</td>
+	  </tr>
+	  <tr>
+	    <td>1</td>
+	    <td>1</td>
+	    <td>1</td>
+	    <td>1</td>
+	   </tr>
+	  <tr>
+	    <td>1</td>
+	    <td>0</td>
+	    <td>0</td>
+	    <td>1</td>
+	   </tr>
+	  <tr>
+	    <td>0</td>
+	    <td>0</td>
+	    <td>0</td>
+	    <td>0</td>
+	   </tr>
+	  <tr>
+	    <td>0</td>
+	    <td>1</td>
+	    <td>0</td>
+	    <td>1</td>
+	  </tr>
+	  
+  
+      
+	</table>
+	</p>
+         </center>
+</body>
+</html>
+
+
+
+

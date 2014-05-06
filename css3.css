@@ -1,0 +1,44 @@
+﻿html,body{
+	width: 100%;
+	height: 100%;
+
+}
+body{
+	background: #1e5799; /* Old browsers */
+	background-image: -webkit-gradient(linear,0% 0%, 0% 100%, from(#ffffff), to(#1e5799));
+	background-image: -moz-linear-gradient(0% 100% 90deg, #1e5799, #ffffff);
+
+}
+
+header,footer,section,article, nav {
+	display:block;
+}
+
+nav {
+	float:right;
+	width: 50%;
+}
+
+nav li{
+	list-style:none;
+	float:left;
+	
+}
+
+nav li a{
+	color:rgba(255,255,255,0.7);
+	padding:5px 10px 5px 10px;
+	transition:all 0.3s ease;
+	
+}
+
+nav li a:hover, nav li a:focus {
+	color:rgb(255,255,255);
+	background:rgba(0, 0, 255, 0.8);
+	border-radius:5px;
+}
+
+article{
+     float:none;
+	width:100%;
+}

@@ -11,7 +11,7 @@ register.html: contains a register form.
 
 photo.html: a generic photo page with a comments section.
 
-user.html: a generic user page.
+user.html: a generic user page with a javascript generated sample gallery.
 
 Form validation: login.js, register.js, photo.js:
 
